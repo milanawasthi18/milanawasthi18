@@ -18,6 +18,7 @@
     <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
     <td><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
+    <td><img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
   </tr>
 </table>
 
