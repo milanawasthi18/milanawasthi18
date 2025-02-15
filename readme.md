@@ -22,7 +22,7 @@
 </table>
 
 ## 📊 GitHub Stats📌
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=milanawasthi18&show_icons=true&locale=en&layout=compact&theme=radical" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=milanawasthi18&show_icons=true&locale=en&layout=compact&theme=light" />
