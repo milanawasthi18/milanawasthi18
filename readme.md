@@ -21,14 +21,12 @@
 </table>
 
 ## 📊 GitHub Stats📌
-<a href="https://github.com/mikyll/mikyll#gh-light-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8&theme=light#gh-light-mode-only"></a>
-<a href="https://github.com/mikyll/mikyll#gh-dark-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanawasthi18&show_icons=true&locale=en&layout=compact" alt="milanawasthi18" /></p>
 
 ## 📢 Connect With Me
-<a title="Gmail" href="mailto:righi.michele98@gmail.com"><img width="40" src="./gfx/icons/gmail.png"></a> 
-<a title="Instagram" href="https://www.instagram.com/mikyll98/"><img width="40" src="./gfx/icons/instagram.png"></a>
-<a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="./gfx/icons/leetcode.svg"></a>  
-<a title="LinkedIn" href="https://www.linkedin.com/in/michele-righi/"><img width="40" src="./gfx/icons/linkedin.png"></a> 
+- 📸 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milan_.awasthi/)  
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-awasthi-343874281/)  
+- 📩 **Email**: [milanawasthi726@gmail.com](mailto:milanawasthi726@gmail.com)  
 
 ---
 💡 _What I believe? "Never stop learning because life never stops teaching."_
