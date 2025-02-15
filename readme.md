@@ -22,7 +22,14 @@
 </table>
 
 ## 📊 GitHub Stats📌
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanawasthi18&show_icons=true&locale=en&layout=compact" alt="milanawasthi18" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=milanawasthi18&show_icons=true&locale=en&layout=compact&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=milanawasthi18&show_icons=true&locale=en&layout=compact&theme=light" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milanawasthi18&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  </picture>
+</p>
+
 
 ## 📢 Connect With Me
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milan_.awasthi/)  
