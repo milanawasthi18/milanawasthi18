@@ -21,8 +21,7 @@
 </table>
 
 ## 📊 GitHub Stats📌 
-**Most Used Languages:**  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanawasthi726&layout=compact&theme=radical)  
+![Most Used Languages](https://github-readme-stats-milan.vercel.app/api/top-langs/?username=milanawasthi726&layout=compact&theme=radical&hide_border=true)
 
 
 ## 📢 Connect With Me
