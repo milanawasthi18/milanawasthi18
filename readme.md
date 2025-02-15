@@ -20,9 +20,10 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
-📌 **Most Used Languages:**  
+## 📊 GitHub Stats📌 
+**Most Used Languages:**  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanawasthi726&layout=compact&theme=radical)  
+
 
 ## 📢 Connect With Me
 - 📸 **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milan_.awasthi/)  
