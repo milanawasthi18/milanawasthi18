@@ -1,6 +1,7 @@
 # 🚀 Milan Awasthi - Web Developer & Tech Enthusiast
 
 ## 🌟 About Me
+🔹 Currently working on Medicare.
 🔹 Passionate **Web Developer** with a thirst for knowledge.  
 🔹 Always exploring new technologies and honing my skills.  
 🔹 Love tackling challenges in the ever-evolving tech world.  
@@ -24,9 +25,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanawasthi18&show_icons=true&locale=en&layout=compact" alt="milanawasthi18" /></p>
 
 ## 📢 Connect With Me
-- 📸 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milan_.awasthi/)  
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-awasthi-343874281/)  
-- 📩 **Email**: [milanawasthi726@gmail.com](mailto:milanawasthi726@gmail.com)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milan_.awasthi/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-awasthi-343874281/)  
+- **Email**: [milanawasthi726@gmail.com](mailto:milanawasthi726@gmail.com)  
 
 ---
 💡 _What I believe? "Never stop learning because life never stops teaching."_
